@@ -1,0 +1,20 @@
+[
+    {
+        "titel": "Die Therapie",
+        "autor": "Sebastian Fitzek",
+        "genre": "Psychothriller",
+        "preis": 11.99
+    },
+    {
+        "titel": "Das Paket",
+        "autor": "Sebastian Fitzek",
+        "genre": "Psychothriller",
+        "preis": 11.99
+    },
+    {
+        "titel": "Der Augensammler",
+        "autor": "Sebastian Fitzek",
+        "genre": "Psychothriller",
+        "preis": 10.99
+    }
+]

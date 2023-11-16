@@ -1,5 +1,12 @@
 # ReadMe zum Code "Online-Buchhandlung"
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 Hierbei handelt es sich um ein Praxisprojekt, welches wir innerhalb des Kurses gemacht haben. Hier habe ich mit verschiedenen Klassen gearbeitet, um eine Online-Buchhandlung zu simulieren. Zu Beginn wird der Kunde nach seiner E-Mail Adresse gefragt, welche danach mit den hinterlegten Adressen verglichen wird. Ist die Adresse vorhanden, wird der Kunde mit seinem Namen begrüßt. Falls nicht, wird der Kunde nach seinem Namen gefragt und wird danach begrüßt.
 
 Danach hat Kunde bzw. der Codeuser hat im Hauptmenü folgende Möglichkeiten:
@@ -28,3 +35,20 @@ Möchte der Kunde prüfen, ob eines der Bücher auf seiner Wunschliste verfügba
 
 ## Beenden
 Beendet das Programm mit einer Verabschiedung des Kunden.
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/flo130522/Online-Buchhandlung.svg?style=for-the-badge
+[contributors-url]: https://github.com/flo130522/Online-Buchhandlung/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/flo130522/Online-Buchhandlung.svg?style=for-the-badge
+[forks-url]: https://github.com/flo130522/Online-Buchhandlung/network/members
+[stars-shield]: https://img.shields.io/github/stars/flo130522/Online-Buchhandlung.svg?style=for-the-badge
+[stars-url]: https://github.com/flo130522/Online-Buchhandlung/stargazers
+[issues-shield]: https://img.shields.io/github/issues/flo130522/Online-Buchhandlung.svg?style=for-the-badge
+[issues-url]: https://github.com/flo130522/Online-Buchhandlung/issues
+[license-shield]: https://img.shields.io/github/license/flo130522/Online-Buchhandlung.svg?style=for-the-badge
+[license-url]: https://github.com/flo130522/Online-Buchhandlung/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/flokurek
